@@ -1,0 +1,7 @@
+This is a blogging site create using Python version 3.6.2 and Django version 1.11.4. 
+
+Has the following features:
+- New blog post can be created by an admin
+- Tags for classification can be added by admin
+- Comments for each blog post can be added by user
+- Search Engine - added using Solr version 6.6.0 and Haystack 
