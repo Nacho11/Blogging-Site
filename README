@@ -1,4 +1,4 @@
-This is a blogging site create using Python version 3.6.2 and Django version 1.11.4. 
+This is a blogging site created using Python version 3.6.2 and Django version 1.11.4. 
 
 Has the following features:
 - New blog post can be created by an admin
